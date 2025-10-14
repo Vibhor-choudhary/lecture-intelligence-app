@@ -1,5 +1,5 @@
 # ============================================================================
-# LECTURE INTELLIGENCE - STREAMLIT FRONTEND (FIXED VERSION)
+# LECTURE INTELLIGENCE - STREAMLIT FRONTEND 
 # ============================================================================
 
 import streamlit as st
