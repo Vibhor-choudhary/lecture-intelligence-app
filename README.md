@@ -66,8 +66,7 @@ pip --version
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/lecture-intelligence.git
-cd lecture-intelligence
+git clone https://github.com/Vibhor-choudhary/lecture-intelligence-app.git
 
 ### 2️⃣ Install Frontend Dependencies
 
