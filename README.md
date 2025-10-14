@@ -120,9 +120,9 @@ Transform any YouTube lecture into comprehensive study materials with AI
 
 Click this link to open the backend in Google Colab:
 
-🔗 **[Open Backend Notebook](https://colab.research.google.com/drive/YOUR-NOTEBOOK-ID)** *(Replace with your actual Colab notebook link)*
+🔗 **[Open Backend Notebook](https://colab.research.google.com/#create=true)**
 
-Or create new notebook and paste the backend code from `backend/backend.py`
+Use backend code from `backend/backend.py`
 
 ### Step 2: Run Backend Setup
 
