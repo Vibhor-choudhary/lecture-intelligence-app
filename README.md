@@ -49,6 +49,9 @@ Transform any YouTube lecture into comprehensive study materials with AI
 **Problem Solved:** Students capture only 60-70% of lecture content when taking manual notes. This tool captures 100% and generates structured study materials in 2-5 minutes.
 
 ---
+## Video- Walkthrough
+
+https://github.com/user-attachments/assets/7ffc3e5d-34e8-423f-8af9-34cc14cdc693
 
 ## ✨ Features
 
