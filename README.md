@@ -8,7 +8,6 @@ Transform any YouTube lecture into comprehensive study materials with AI
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.29.0-FF4B4B.svg)](https://streamlit.io)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success.svg)](https://lecture-intelligence-app-38iblrempnyc28kdukruik.streamlit.app/)
 
 [Live Demo](https://lecture-intelligence-app-38iblrempnyc28kdukruik.streamlit.app/) • [Request Feature](https://github.com/Vibhor-choudhary/lecture-intelligence-app/issues)
@@ -458,14 +457,6 @@ A: Speed vs accuracy trade-off. "tiny" processes 3x faster than "base" with only
 5. Push: `git push origin feature/AmazingFeature`
 6. Open Pull Request
 
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-**TL;DR:** You can use, modify, and distribute this project freely. Just include the original license.
 
 ---
 
