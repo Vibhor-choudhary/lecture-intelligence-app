@@ -11,29 +11,11 @@ Transform any YouTube lecture into comprehensive study materials with AI
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success.svg)](https://lecture-intelligence-app-38iblrempnyc28kdukruik.streamlit.app/)
 
-[Live Demo](https://lecture-intelligence-app-38iblrempnyc28kdukruik.streamlit.app/) • [Report Bug](https://github.com/Vibhor-choudhary/lecture-intelligence-app/issues) • [Request Feature](https://github.com/Vibhor-choudhary/lecture-intelligence-app/issues)
+[Live Demo](https://lecture-intelligence-app-38iblrempnyc28kdukruik.streamlit.app/) • [Request Feature](https://github.com/Vibhor-choudhary/lecture-intelligence-app/issues)
 
 *Note: App requires backend setup (see instructions below)*
 
 </div>
-
----
-
-## 📖 Table of Contents
-
-- [About](#about)
-- [Features](#features)
-- [Quick Start](#quick-start)
-- [Prerequisites](#prerequisites)
-- [Backend Setup (Google Colab)](#backend-setup-google-colab)
-- [Frontend Usage](#frontend-usage)
-- [Complete Step-by-Step Guide](#complete-step-by-step-guide)
-- [Architecture](#architecture)
-- [API Documentation](#api-documentation)
-- [Troubleshooting](#troubleshooting)
-- [FAQ](#faq)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -447,12 +429,6 @@ A: No! All processing happens on-demand. Files are deleted immediately after pro
 **Q: Why do I need to run backend manually?**
 A: Free tier limitations. Paid hosting would cost $20-50/month. Colab + ngrok keeps it 100% free but requires manual setup.
 
-**Q: Can I deploy backend permanently?**
-A: Yes! Use Render.com, Railway.app, or Heroku. See `docs/deployment.md` for instructions.
-
-**Q: Why ngrok URL changes?**
-A: Free tier generates random URLs. Pro plan ($8/month) gives fixed domain. Or deploy backend to cloud platform.
-
 **Q: Can I run backend on my computer?**
 A: Yes! Clone repo, install requirements, run `backend/backend.py`. But you'll still need ngrok for public access.
 
@@ -466,19 +442,6 @@ A:
 A: Speed vs accuracy trade-off. "tiny" processes 3x faster than "base" with only 5% accuracy drop. You can change it in code.
 
 ---
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how to help:
-
-### Reporting Bugs
-
-1. Check [existing issues](https://github.com/Vibhor-choudhary/lecture-intelligence-app/issues)
-2. If new, create issue with:
-   - Steps to reproduce
-   - Expected vs actual behavior
-   - Screenshots if applicable
-   - Your browser/OS
 
 ### Suggesting Features
 
@@ -523,18 +486,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - GitHub: [@Vibhor-choudhary](https://github.com/Vibhor-choudhary)
 - Repository: [lecture-intelligence-app](https://github.com/Vibhor-choudhary/lecture-intelligence-app)
-
-**Get Help:**
-- 📖 Check [Troubleshooting](#troubleshooting) section
-- 💬 [GitHub Discussions](https://github.com/Vibhor-choudhary/lecture-intelligence-app/discussions)
-- 🐛 [Report Issues](https://github.com/Vibhor-choudhary/lecture-intelligence-app/issues)
-
----
-
-## 🌟 Star History
-
-If you find this project useful, please consider giving it a ⭐ on GitHub!
-
 ---
 
 ## 📊 Project Stats
